@@ -1,0 +1,125 @@
+#toppart{
+	background-image:url("landing5.jpg");
+	height:100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.navbar{
+	background: transparent!important;
+	padding-top: 2%;
+}
+.navbar a{
+	color: white!important;
+	font-size: 1.2em;
+
+}
+.nav li{
+	padding-right: 5px;
+}
+.jumbotron{
+	background: none;
+	padding-top: 25%;
+	padding-bottom: 30%;
+	color: white;
+
+}
+
+#ME{
+	margin:; 4em 0;
+	padding: 1em;
+	position: relative;
+}
+#ME h1{
+	color: #FFFFFF;
+	margin: 2em;
+}
+#ME img{
+	height: 100%;
+	width: 100%;
+	border-radius: 50%;
+}
+#ME span{
+	display: block;
+	color: #FFFFFF;
+	position: absolute;
+	left: 5%;
+}
+#ME .infoonme{
+	padding: 2em;
+	border-left: 4px solid #FFFFFF;
+}
+#ME .infoonme h3{
+	color: #FFFFFF;
+}
+#ME .infooneme p{
+	line-height: 2;
+	color: #FFFFFF;
+}
+#aboutmelanding{
+	background: none;
+	padding-top: 2%!important;
+	padding-bottom:2%!important;
+	padding-left: 5%;
+	padding-right: 5%;
+	color: #4a4d54;
+	margin-bottom: -1%;
+}
+
+
+#aboutmelanding p{
+	margin-top: 2%;
+}
+#firstmention h1{
+	font-size: 7em;
+	margin-bottom: 1%;
+}
+#restofsite{
+	background-color: #fafafa;
+}
+.btn-lg{
+	margin-top: 1%;
+	border-width: medium;
+	border-radius: 0;
+	padding: .6rem 1.3rem;
+	font-size: 1.1rem;
+	padding-top: -10%;
+	padding-bottom: -10%;
+
+
+}
+#projectsjumbotron{
+	padding-top: 2%;
+	padding-bottom: 2%
+
+}
+html{
+	scroll-behavior: smooth;
+}
+#spaceit{
+	margin-top: 1.5%;
+}
+#projectsh2{
+	margin-top: -0.75%!important;
+	margin-bottom: 1%;
+	color: #4a4d54;
+}
+@media (min-width: 992px){
+    .navbar li {
+        margin-left : 3%;
+        margin-right : 3%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
